@@ -4,6 +4,8 @@ Generating AI Summaries of transcripts from the LangChain Interrupt 2025 confere
 
 The transcripts are available here: https://lawwu.github.io/transcripts/index_langchain_interrupt_2025_official.html
 
+Published output on my Quarto blog is here: https://lawwu.github.io/posts/2025-05-23-langchain-interrupt-2025-recap/
+
 ## Setup
 
 ```bash
